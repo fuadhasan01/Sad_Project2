@@ -68,7 +68,7 @@ body{
     display: inline-block;
     width: 400px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #488280;
     color: #fff;
     border-radius: 4px;
     text-align: center;
@@ -78,11 +78,11 @@ body{
     margin: 50px 0;
   }
   .button:hover {
-    background-color: #0062cc;
+    background-color: #335756;
   }
   
   .button:active {
-    background-color: #005cbf;
+    background-color: #1c2a29;
   }
   .checkbox{
     display: flex;
