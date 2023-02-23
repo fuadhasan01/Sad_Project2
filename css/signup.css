@@ -10,7 +10,7 @@ body{
 .container .left{
     font-family: 'Varela Round', sans-serif;
     color: white;
-    width: 40%;
+    width: 35%;
     height: 100vh;
     background: linear-gradient(to left, #5f9393 0%, #406261    100%);
     display: flex;
@@ -48,7 +48,7 @@ body{
     background-color: white;
 }
 .container .right{
-    width: 60%;
+    width: 65%;
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
